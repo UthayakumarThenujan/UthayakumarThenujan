@@ -20,9 +20,7 @@ Email: uthayakumarthenujan@gmail.com
   </a>
 </p>
 <div align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
-  <img alt="UthayakumarThenujan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/UthayakumarThenujan?cardType=level-alternate&theme=react&preferLogin=false" />
-</a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    <img  alt="UthayakumarThenujan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/UthayakumarThenujan?cardType=level&theme=dark&preferLogin=false" />  </a>
 <br><br>
 <a href="https://github.com/UthayakumarThenujan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UthayakumarThenujan&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
@@ -45,4 +43,3 @@ Email: uthayakumarthenujan@gmail.com
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40" style="margin: 5px;"/>
