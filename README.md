@@ -4,7 +4,7 @@
 
 
 
-Hello there! 👋 I'm <b>Aruran<b> Kirupanantha👨‍💻
+Hello there! 👋 I'm <b>Thenujan<b> Uthayakumar👨‍💻
 
 <p align="center">
 🚀 Ambitious AI student at the University of Moratuwa, Passionate AI/ML engineer with a strong background in deep learning, computer vision, and natural language processing. Skilled in Python, TensorFlow, PyTorch, and various ML libraries. Excellent problem-solving, research, and collaboration abilities. Seeking a challenging role to develop cutting-edge AI solutions.
